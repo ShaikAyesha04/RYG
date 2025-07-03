@@ -57,7 +57,7 @@ task-tracker/
 4. Open [http://localhost:3000](http://localhost:3000)
 
 ## 🔗 Live Demo
-[Link to deployed application]
+https://neco-zeta.vercel.app/
 
 ## 🖼 Screenshots
 ![Screenshot from 2025-07-03 16-54-47](https://github.com/user-attachments/assets/f26c233e-af8b-4f99-9554-dc8aff7edcb3)
