@@ -60,5 +60,5 @@ task-tracker/
 [Link to deployed application]
 
 ## 🖼 Screenshots
-/home/apiiit123/INTERNSHIP ASSIGNMENT/task-tracker/screenshots/Screenshot from 2025-07-03 16-54-47.png
-/home/apiiit123/INTERNSHIP ASSIGNMENT/task-tracker/screenshots/Screenshot from 2025-07-03 16-55-06.png
+![Screenshot from 2025-07-03 16-54-47](https://github.com/user-attachments/assets/f26c233e-af8b-4f99-9554-dc8aff7edcb3)
+![Screenshot from 2025-07-03 16-54-47](https://github.com/user-attachments/assets/a3994a99-15b0-4bed-a141-2de41233a147)
